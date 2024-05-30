@@ -2,7 +2,7 @@ I am a Ph.D. student at Cornell University studying Particle Physics for the CMS
 
 Current Projects:
 
-- [Line Segment Tracking (LST)](https://github.com/SegmentLinking/TrackLooper): LST is a highly parallelizable algorithm written in C++ designed to reconstruct tracks from particle collisions in the CMS detector at CERN. It aims to replace the current Kalman Filter-based algorithms with a new GPU-based approach to handle the increased volume of data expected from the High Luminosity Large Hadron Collider (HL-LHC).
+- [Line Segment Tracking (LST)](https://github.com/SegmentLinking/TrackLooper): LST is a highly parallelizable algorithm written in C++ built to reconstruct tracks from particle collisions in the CMS detector at CERN. It aims to replace the current Kalman Filter-based algorithms with a new GPU-based approach to handle the increased volume of data expected from the High Luminosity Large Hadron Collider (HL-LHC).
   
 Past Projects:
 
