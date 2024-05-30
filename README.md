@@ -7,4 +7,4 @@ Current Projects:
 Past Projects:
 
 - [Light Dark Matter eXperiment (LDMX)](https://github.com/LDMX-Software/ldmx-sw): LDMX is a proposed particle physics experiment led by a group at Stanford designed to search for low-mass dark matter. I developed the experiment's background rejection model with XGBoost while as an undergrad at UC Santa Barbara under Joe Incandela.
-- [TracePy](https://github.com/GNiendorf/tracepy): TracePy is a sequential ray tracing package that I wrote in Python 3 for designing optical systems in the geometric optics regime. It features lens optimization from Scipy. I also developed a [parallelizable version](https://github.com/GNiendorf/Tracepy-Fast) of TracePy written in C++ with [Alpaka](https://github.com/alpaka-group/alpaka) that is capable of running on GPU's.
+- [TracePy](https://github.com/GNiendorf/tracepy): TracePy is a sequential ray tracing package that I wrote in Python 3 for designing optical systems in the geometric optics regime. It features lens optimization from Scipy. I also developed a [parallelizable version](https://github.com/GNiendorf/Tracepy-Fast) of TracePy written in C++ that is capable of running on GPU's.
