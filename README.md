@@ -1,5 +1,3 @@
-I am a Ph.D. student at Cornell University studying Particle Physics for the CMS Experiment at CERN. My research focuses on high-performance and parallel computing applications for particle tracking, funded by Princeton's Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP). Outside of physics, I spent a year as a Research Engineer for a defense company near Washington DC writing software for research projects funded primarily by DARPA.
-
 Current Projects:
 
 - [Line Segment Tracking (LST)](https://github.com/SegmentLinking/TrackLooper): LST is a highly parallelizable algorithm written in C++ built to reconstruct tracks from particle collisions in the CMS detector at CERN. It aims to replace the current Kalman Filter-based algorithms with a new GPU-based approach to handle the increased volume of data expected from the High Luminosity Large Hadron Collider (HL-LHC).
